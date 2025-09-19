@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science @ UCSB
 -----------------------
 
-SWE @ Conmitto Inc.
+SWE Intern @ Conmitto Inc.
 
 Director of Outreach @ ACM.Industry
 
