@@ -6,7 +6,7 @@ Computer Science @ UCSB
 
 SWE Intern @ Conmitto Inc.
 
-Director of Outreach @ ACM.Industry
+Co-President @ [ACM.Industry](https://acmindustry.org/)
 
 * 🌍  I'm based in San Ramon, CA
 * ✉️  You can contact me at [sganotra@ucsb.edu](mailto:sganotra@ucsb.edu)
