@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science @ UCSB
 -----------------------
 
-SWE Intern @ Conmitto Inc.
+SWE Intern @ American Express
 
 Co-President @ [ACM.Industry](https://acmindustry.org/)
 
